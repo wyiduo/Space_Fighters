@@ -4,6 +4,12 @@
 
 ### If you are using an older version of Windows, you will need .NET Framework 4.5 (or higher) to run Space Fighters.
 
+&nbsp;
+
+THIS SOFTWARE CONTAINS COPYRIGHTED ASSETS THAT I DO NOT OWN THE COPYRIGHT TO.
+
+DO NOT DISTRIBUTE.
+
 ---
 
 Space Fighters is a 1-2 player arcade game that borrows gameplay elements from the widely-acclaimed Pong arcade game. Space Fighters adds on to the Pong formula by adding horizontal movement and by having players dodge projectiles instead of catching them.
@@ -47,6 +53,6 @@ Robert Cai
 
 ## Disclaimer
 
-THIS SOFTWARE CONTAINS COPYRIGHT MATERIAL THAT I DO NOT OWN THE COPYRIGHT TO.
+THIS SOFTWARE CONTAINS COPYRIGHTED ASSETS THAT I DO NOT OWN THE COPYRIGHT TO.
 
 DO NOT DISTRIBUTE.
