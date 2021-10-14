@@ -2,7 +2,7 @@
 
 Space Fighters is a 1-2 player arcade game that borrows gameplay elements from the widely-acclaimed Pong arcade game. Space Fighters adds on to the Pong formula by adding horizontal movement and by having players dodge projectiles instead of catching them.
 
-![Title Screen](titlescreen.png)
+![Title Screen](titlescreen.PNG)
 
 ## How to play
 
@@ -17,7 +17,7 @@ Press "Space" once you know the controls to get into the action! Press "Esc" at 
 
 Movement Controls:
 
-![Movement Controls](movementcontrols.png)
+![Movement Controls](movementcontrols.PNG)
 
 **Be careful! Scorpion AI is a cold, battle-hardened veteran. Take no chances with it!** 
 
