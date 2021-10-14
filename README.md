@@ -26,7 +26,7 @@ Movement Controls:
 **Dependencies:**
 - Visual Studio Community 2017
 - MonoGame 3.7.1 for VS
-- .NET Framework 4.5 (x86 and x64)
+- .NET Framework 4.5 (or higher) **.NET Framework 4.6 is included in Windows 10**
 
 Newer versions of the VS IDE can work, but have not been tested. The Professional and Enterprise versions of the VS IDE can work, but have also not been tested.
 
@@ -36,6 +36,7 @@ Versions of MonoGame newer than MonoGame 3.7.1 can work, but have not been teste
 ## Special thanks
 
 Elkan Fok
+
 Robert Cai
 
 ## Disclaimer
