@@ -1,6 +1,6 @@
 # The Adventure of the Future: Space Fighters
 
-### **![Download for Windows 10/8/8.1](https://github.com/wyiduo/Space_Fighters/releases/download/v1.0.0/Space_Fighters_release.zip)**
+### **[Download for Windows 10/8/8.1](https://github.com/wyiduo/Space_Fighters/releases/download/v1.0.0/Space_Fighters_release.zip)**
 
 ### If you are using an older version of Windows, you will need .NET Framework 4.5 (or higher) to run Space Fighters.
 
